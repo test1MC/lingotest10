@@ -65,7 +65,7 @@
             MadCap:matchPercent="0" /><mrk
             mtype="seg"
             mid="3"
-            MadCap:segmentStatus="ContextMatch"
+            MadCap:segmentStatus="Accepted"
             MadCap:matchPercent="101">"Ráscame cuello .."</mrk></target></trans-unit></body>
   </file>
 </xliff>
